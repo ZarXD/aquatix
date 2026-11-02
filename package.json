@@ -1,0 +1,22 @@
+{
+  "name": "aquatix",
+  "version": "1.0.0",
+  "description": "AquaTix - aplikasi pemesanan tiket kolam renang (React Native + Expo + Supabase)",
+  "main": "App.js",
+  "private": true,
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@supabase/supabase-js": "2.45.4",
+    "expo": "~51.0.0",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-url-polyfill": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
