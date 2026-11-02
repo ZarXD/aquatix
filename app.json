@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "AquaTix",
+    "slug": "aquatix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "primaryColor": "#0B5C8A",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0B5C8A"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B5C8A"
+      }
+    }
+  }
+}
